@@ -17,6 +17,6 @@ I am an avid Engineer that does a lot of strange yet challenging stuff on the te
 ## 📈 GitHub Stats
 
 <div style="display:flex;">
-<img src="https://github-readme-stats.vercel.app/api?username=furkanarabaci&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanarabaci&theme=radical&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=furkanarabaci&theme=radical&count_private=true&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkanarabaci&theme=radical&layout=compact&count_private=true&show_icons=true">
 </div>
