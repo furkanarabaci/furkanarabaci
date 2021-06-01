@@ -11,7 +11,7 @@ I am an avid Engineer that does a lot of strange yet challenging stuff on the te
 ### About me
 
 - I work for Smartface Inc.
-- I am a volunteering developer at https://personality-database.com
+- I worked as a volunteering developer at https://personality-database.com
 - I am a Mobile Application Developer.
 
 ## 📈 GitHub Stats
