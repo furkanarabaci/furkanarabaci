@@ -9,7 +9,7 @@ I am an avid Engineer who does many strange and challenging things in the tech f
 - Experimenting different stacks for an easier CRUD process.
 
 ### About me
-- Currently employed at Smartface Inc.
+- Currently employed at Smartface Inc as Full-Stack Software Engineer.
 - Previous volunteering developer at https://personality-database.com
 - I am a Mobile Application Developer.
 
