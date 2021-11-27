@@ -5,7 +5,7 @@ I am an avid Engineer who does many strange and challenging things in the tech f
 ### My activities on free time:
 
 - Trying to run DirectX based Windows-only games on Linux or MacOS (avid user of Wine, Valve-Proton and Lutris)
-- Discovering innovate frameworks which can make things easier.
+- Discovering innovative frameworks which can make things easier.
 - Experimenting different stacks for an easier CRUD process.
 
 ### About me
