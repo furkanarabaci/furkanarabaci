@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-I am an avid Engineer that does a lot of strange yet challenging stuff on the tech field. 
+I am an avid Engineer who does many strange and challenging things in the tech field.
 
 ### My activities on free time:
 
 - Trying to run DirectX based Windows-only games on Linux or MacOS (avid user of Wine, Valve-Proton and Lutris)
-- Discovering random frameworks or libraries which can make things easier
-- Trying different stacks for easier CRUD process.
+- Discovering innovate frameworks which can make things easier.
+- Experimenting different stacks for an easier CRUD process.
 
 ### About me
-
-- I work for Smartface Inc.
-- I worked as a volunteering developer at https://personality-database.com
+- Currently employed at Smartface Inc.
+- Previous volunteering developer at https://personality-database.com
 - I am a Mobile Application Developer.
 
 ## 📈 GitHub Stats
