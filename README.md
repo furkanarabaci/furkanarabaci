@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an avid Engineer who does many strange and challenging things in the tech field.
+I am an avid Engineer who accomplishes many strange and challenging things in the tech field.
 
 ### My activities on free time:
 
@@ -10,7 +10,7 @@ I am an avid Engineer who does many strange and challenging things in the tech f
 
 ### About me
 - Currently employed at Smartface Inc as Full-Stack Software Engineer.
-- Previous volunteering developer at https://personality-database.com
+- Previously volunteered as a backend developer at https://personality-database.com
 - I am a Mobile Application Developer.
 
 ## 📈 GitHub Stats
